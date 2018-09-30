@@ -1,0 +1,1495 @@
+1C Enterprise:
+  extensions: [.bsl, .os]
+  filenames: []
+ABAP:
+  extensions: [.abap]
+  filenames: []
+ABNF:
+  extensions: [.abnf]
+  filenames: []
+AGS Script:
+  extensions: [.asc, .ash]
+  filenames: []
+AMPL:
+  extensions: [.ampl, .mod]
+  filenames: []
+ANTLR:
+  extensions: [.g4]
+  filenames: []
+API Blueprint:
+  extensions: [.apib]
+  filenames: []
+APL:
+  extensions: [.apl, .dyalog]
+  filenames: []
+ASN.1:
+  extensions: [.asn, .asn1]
+  filenames: []
+ASP:
+  extensions: [.asp, .asax, .ascx, .ashx, .asmx, .aspx, .axd]
+  filenames: []
+ATS:
+  extensions: [.dats, .hats, .sats]
+  filenames: []
+ActionScript:
+  extensions: [.as]
+  filenames: []
+Ada:
+  extensions: [.adb, .ada, .ads]
+  filenames: []
+Adobe Font Metrics:
+  extensions: [.afm]
+  filenames: []
+Agda:
+  extensions: [.agda]
+  filenames: []
+Alloy:
+  extensions: [.als]
+  filenames: []
+Alpine Abuild:
+  extensions: []
+  filenames: [APKBUILD]
+AngelScript:
+  extensions: [.as, .angelscript]
+  filenames: []
+Ant Build System:
+  extensions: []
+  filenames: [ant.xml, build.xml]
+ApacheConf:
+  extensions: [.apacheconf, .vhost]
+  filenames: [.htaccess, apache2.conf, httpd.conf]
+Apex:
+  extensions: [.cls]
+  filenames: []
+Apollo Guidance Computer:
+  extensions: [.agc]
+  filenames: []
+AppleScript:
+  extensions: [.applescript, .scpt]
+  filenames: []
+Arc:
+  extensions: [.arc]
+  filenames: []
+AsciiDoc:
+  extensions: [.asciidoc, .adoc, .asc]
+  filenames: []
+AspectJ:
+  extensions: [.aj]
+  filenames: []
+Assembly:
+  extensions: [.asm, .a51, .inc, .nasm]
+  filenames: []
+Augeas:
+  extensions: [.aug]
+  filenames: []
+AutoHotkey:
+  extensions: [.ahk, .ahkl]
+  filenames: []
+AutoIt:
+  extensions: [.au3]
+  filenames: []
+Awk:
+  extensions: [.awk, .auk, .gawk, .mawk, .nawk]
+  filenames: []
+Ballerina:
+  extensions: [.bal]
+  filenames: []
+Batchfile:
+  extensions: [.bat, .cmd]
+  filenames: []
+Befunge:
+  extensions: [.befunge]
+  filenames: []
+Bison:
+  extensions: [.bison]
+  filenames: []
+BitBake:
+  extensions: [.bb]
+  filenames: []
+Blade:
+  extensions: [.blade, .blade.php]
+  filenames: []
+BlitzBasic:
+  extensions: [.bb, .decls]
+  filenames: []
+BlitzMax:
+  extensions: [.bmx]
+  filenames: []
+Bluespec:
+  extensions: [.bsv]
+  filenames: []
+Boo:
+  extensions: [.boo]
+  filenames: []
+Brainfuck:
+  extensions: [.b, .bf]
+  filenames: []
+Brightscript:
+  extensions: [.brs]
+  filenames: []
+Bro:
+  extensions: [.bro]
+  filenames: []
+C:
+  extensions: [.c, .cats, .h, .idc]
+  filenames: []
+C#:
+  extensions: [.cs, .cake, .cshtml, .csx]
+  filenames: []
+C++:
+  extensions: [.cpp, .c++, .cc, .cp, .cxx, .h, .h++, .hh, .hpp, .hxx, .inc, .inl,
+    .ino, .ipp, .re, .tcc, .tpp]
+  filenames: []
+C-ObjDump:
+  extensions: [.c-objdump]
+  filenames: []
+C2hs Haskell:
+  extensions: [.chs]
+  filenames: []
+CLIPS:
+  extensions: [.clp]
+  filenames: []
+CMake:
+  extensions: [.cmake, .cmake.in]
+  filenames: [CMakeLists.txt]
+COBOL:
+  extensions: [.cob, .cbl, .ccp, .cobol, .cpy]
+  filenames: []
+COLLADA:
+  extensions: [.dae]
+  filenames: []
+CSON:
+  extensions: [.cson]
+  filenames: []
+CSS:
+  extensions: [.css]
+  filenames: []
+CSV:
+  extensions: [.csv]
+  filenames: []
+CWeb:
+  extensions: [.w]
+  filenames: []
+Cap'n Proto:
+  extensions: [.capnp]
+  filenames: []
+CartoCSS:
+  extensions: [.mss]
+  filenames: []
+Ceylon:
+  extensions: [.ceylon]
+  filenames: []
+Chapel:
+  extensions: [.chpl]
+  filenames: []
+Charity:
+  extensions: [.ch]
+  filenames: []
+ChucK:
+  extensions: [.ck]
+  filenames: []
+Cirru:
+  extensions: [.cirru]
+  filenames: []
+Clarion:
+  extensions: [.clw]
+  filenames: []
+Clean:
+  extensions: [.icl, .dcl]
+  filenames: []
+Click:
+  extensions: [.click]
+  filenames: []
+Clojure:
+  extensions: [.clj, .boot, .cl2, .cljc, .cljs, .cljs.hl, .cljscm, .cljx, .hic]
+  filenames: [riemann.config]
+Closure Templates:
+  extensions: [.soy]
+  filenames: []
+Cloud Firestore Security Rules:
+  extensions: []
+  filenames: [firestore.rules]
+CoNLL-U:
+  extensions: [.conllu, .conll]
+  filenames: []
+CoffeeScript:
+  extensions: [.coffee, ._coffee, .cake, .cjsx, .iced]
+  filenames: [Cakefile]
+ColdFusion:
+  extensions: [.cfm, .cfml]
+  filenames: []
+ColdFusion CFC:
+  extensions: [.cfc]
+  filenames: []
+Common Lisp:
+  extensions: [.lisp, .asd, .cl, .l, .lsp, .ny, .podsl, .sexp]
+  filenames: []
+Common Workflow Language:
+  extensions: [.cwl]
+  filenames: []
+Component Pascal:
+  extensions: [.cp, .cps]
+  filenames: []
+Cool:
+  extensions: [.cl]
+  filenames: []
+Coq:
+  extensions: [.coq, .v]
+  filenames: []
+Cpp-ObjDump:
+  extensions: [.cppobjdump, .c++-objdump, .c++objdump, .cpp-objdump, .cxx-objdump]
+  filenames: []
+Creole:
+  extensions: [.creole]
+  filenames: []
+Crystal:
+  extensions: [.cr]
+  filenames: []
+Csound:
+  extensions: [.orc, .udo]
+  filenames: []
+Csound Document:
+  extensions: [.csd]
+  filenames: []
+Csound Score:
+  extensions: [.sco]
+  filenames: []
+Cuda:
+  extensions: [.cu, .cuh]
+  filenames: []
+Cycript:
+  extensions: [.cy]
+  filenames: []
+Cython:
+  extensions: [.pyx, .pxd, .pxi]
+  filenames: []
+D:
+  extensions: [.d, .di]
+  filenames: []
+D-ObjDump:
+  extensions: [.d-objdump]
+  filenames: []
+DIGITAL Command Language:
+  extensions: [.com]
+  filenames: []
+DM:
+  extensions: [.dm]
+  filenames: []
+DNS Zone:
+  extensions: [.zone, .arpa]
+  filenames: []
+DTrace:
+  extensions: [.d]
+  filenames: []
+Darcs Patch:
+  extensions: [.darcspatch, .dpatch]
+  filenames: []
+Dart:
+  extensions: [.dart]
+  filenames: []
+DataWeave:
+  extensions: [.dwl]
+  filenames: []
+Diff:
+  extensions: [.diff, .patch]
+  filenames: []
+Dockerfile:
+  extensions: [.dockerfile]
+  filenames: [Dockerfile]
+Dogescript:
+  extensions: [.djs]
+  filenames: []
+Dylan:
+  extensions: [.dylan, .dyl, .intr, .lid]
+  filenames: []
+E:
+  extensions: [.E]
+  filenames: []
+EBNF:
+  extensions: [.ebnf]
+  filenames: []
+ECL:
+  extensions: [.ecl, .eclxml]
+  filenames: []
+ECLiPSe:
+  extensions: [.ecl]
+  filenames: []
+EJS:
+  extensions: [.ejs]
+  filenames: []
+EQ:
+  extensions: [.eq]
+  filenames: []
+Eagle:
+  extensions: [.sch, .brd]
+  filenames: []
+Easybuild:
+  extensions: [.eb]
+  filenames: []
+Ecere Projects:
+  extensions: [.epj]
+  filenames: []
+Edje Data Collection:
+  extensions: [.edc]
+  filenames: []
+Eiffel:
+  extensions: [.e]
+  filenames: []
+Elixir:
+  extensions: [.ex, .exs]
+  filenames: [mix.lock]
+Elm:
+  extensions: [.elm]
+  filenames: []
+Emacs Lisp:
+  extensions: [.el, .emacs, .emacs.desktop]
+  filenames: [.abbrev_defs, .emacs, .emacs.desktop, .gnus, .spacemacs, .viper, Cask,
+    Project.ede, _emacs, abbrev_defs]
+EmberScript:
+  extensions: [.em, .emberscript]
+  filenames: []
+Erlang:
+  extensions: [.erl, .app.src, .es, .escript, .hrl, .xrl, .yrl]
+  filenames: [Emakefile, rebar.config, rebar.config.lock, rebar.lock]
+F#:
+  extensions: [.fs, .fsi, .fsx]
+  filenames: []
+F*:
+  extensions: [.fst]
+  filenames: []
+FIGlet Font:
+  extensions: [.flf]
+  filenames: []
+FLUX:
+  extensions: [.fx, .flux]
+  filenames: []
+Factor:
+  extensions: [.factor]
+  filenames: [.factor-boot-rc, .factor-rc]
+Fancy:
+  extensions: [.fy, .fancypack]
+  filenames: [Fakefile]
+Fantom:
+  extensions: [.fan]
+  filenames: []
+Filebench WML:
+  extensions: [.f]
+  filenames: []
+Filterscript:
+  extensions: [.fs]
+  filenames: []
+Formatted:
+  extensions: [.for, .eam.fs]
+  filenames: []
+Forth:
+  extensions: [.fth, .4th, .f, .for, .forth, .fr, .frt, .fs]
+  filenames: []
+Fortran:
+  extensions: [.f90, .f, .f03, .f08, .f77, .f95, .for, .fpp]
+  filenames: []
+FreeMarker:
+  extensions: [.ftl]
+  filenames: []
+Frege:
+  extensions: [.fr]
+  filenames: []
+G-code:
+  extensions: [.g, .gco, .gcode]
+  filenames: []
+GAMS:
+  extensions: [.gms]
+  filenames: []
+GAP:
+  extensions: [.g, .gap, .gd, .gi, .tst]
+  filenames: []
+GCC Machine Description:
+  extensions: [.md]
+  filenames: []
+GDB:
+  extensions: [.gdb, .gdbinit]
+  filenames: []
+GDScript:
+  extensions: [.gd]
+  filenames: []
+GLSL:
+  extensions: [.glsl, .fp, .frag, .frg, .fs, .fsh, .fshader, .geo, .geom, .glslv,
+    .gshader, .shader, .tesc, .tese, .vert, .vrx, .vsh, .vshader]
+  filenames: []
+GN:
+  extensions: [.gn, .gni]
+  filenames: [.gn]
+Game Maker Language:
+  extensions: [.gml]
+  filenames: []
+Genie:
+  extensions: [.gs]
+  filenames: []
+Genshi:
+  extensions: [.kid]
+  filenames: []
+Gentoo Ebuild:
+  extensions: [.ebuild]
+  filenames: []
+Gentoo Eclass:
+  extensions: [.eclass]
+  filenames: []
+Gerber Image:
+  extensions: [.gbr, .gbl, .gbo, .gbp, .gbs, .gko, .gpb, .gpt, .gtl, .gto, .gtp, .gts]
+  filenames: []
+Gettext Catalog:
+  extensions: [.po, .pot]
+  filenames: []
+Gherkin:
+  extensions: [.feature]
+  filenames: []
+Glyph:
+  extensions: [.glf]
+  filenames: []
+Glyph Bitmap Distribution Format:
+  extensions: [.bdf]
+  filenames: []
+Gnuplot:
+  extensions: [.gp, .gnu, .gnuplot, .plot, .plt]
+  filenames: []
+Go:
+  extensions: [.go]
+  filenames: []
+Golo:
+  extensions: [.golo]
+  filenames: []
+Gosu:
+  extensions: [.gs, .gst, .gsx, .vark]
+  filenames: []
+Grace:
+  extensions: [.grace]
+  filenames: []
+Gradle:
+  extensions: [.gradle]
+  filenames: []
+Grammatical Framework:
+  extensions: [.gf]
+  filenames: []
+Graph Modeling Language:
+  extensions: [.gml]
+  filenames: []
+GraphQL:
+  extensions: [.graphql, .gql]
+  filenames: []
+Graphviz (DOT):
+  extensions: [.dot, .gv]
+  filenames: []
+Groovy:
+  extensions: [.groovy, .grt, .gtpl, .gvy]
+  filenames: [Jenkinsfile]
+Groovy Server Pages:
+  extensions: [.gsp]
+  filenames: []
+HCL:
+  extensions: [.hcl, .tf, .tfvars]
+  filenames: []
+HLSL:
+  extensions: [.hlsl, .cginc, .fx, .fxh, .hlsli]
+  filenames: []
+HTML:
+  extensions: [.html, .htm, .html.hl, .inc, .st, .xht, .xhtml]
+  filenames: []
+HTML+Django:
+  extensions: [.jinja, .jinja2, .mustache, .njk]
+  filenames: []
+HTML+ECR:
+  extensions: [.ecr]
+  filenames: []
+HTML+EEX:
+  extensions: [.eex]
+  filenames: []
+HTML+ERB:
+  extensions: [.erb, .erb.deface]
+  filenames: []
+HTML+PHP:
+  extensions: [.phtml]
+  filenames: []
+HTTP:
+  extensions: [.http]
+  filenames: []
+HXML:
+  extensions: [.hxml]
+  filenames: []
+Hack:
+  extensions: [.hh, .php]
+  filenames: []
+Haml:
+  extensions: [.haml, .haml.deface]
+  filenames: []
+Handlebars:
+  extensions: [.handlebars, .hbs]
+  filenames: []
+Harbour:
+  extensions: [.hb]
+  filenames: []
+Haskell:
+  extensions: [.hs, .hsc]
+  filenames: []
+Haxe:
+  extensions: [.hx, .hxsl]
+  filenames: []
+HiveQL:
+  extensions: [.q]
+  filenames: []
+Hy:
+  extensions: [.hy]
+  filenames: []
+HyPhy:
+  extensions: [.bf]
+  filenames: []
+IDL:
+  extensions: [.pro, .dlm]
+  filenames: []
+IGOR Pro:
+  extensions: [.ipf]
+  filenames: []
+INI:
+  extensions: [.ini, .cfg, .lektorproject, .prefs, .pro, .properties]
+  filenames: [.editorconfig, .gitconfig, buildozer.spec]
+IRC log:
+  extensions: [.irclog, .weechatlog]
+  filenames: []
+Idris:
+  extensions: [.idr, .lidr]
+  filenames: []
+Inform 7:
+  extensions: [.ni, .i7x]
+  filenames: []
+Inno Setup:
+  extensions: [.iss]
+  filenames: []
+Io:
+  extensions: [.io]
+  filenames: []
+Ioke:
+  extensions: [.ik]
+  filenames: []
+Isabelle:
+  extensions: [.thy]
+  filenames: []
+Isabelle ROOT:
+  extensions: []
+  filenames: [ROOT]
+J:
+  extensions: [.ijs]
+  filenames: []
+JFlex:
+  extensions: [.flex, .jflex]
+  filenames: []
+JSON:
+  extensions: [.json, .avsc, .geojson, .gltf, .JSON-tmLanguage, .jsonl, .tfstate,
+    .tfstate.backup, .topojson, .webapp, .webmanifest, .yy, .yyp]
+  filenames: [.arcconfig, .htmlhintrc, .tern-config, .tern-project, composer.lock,
+    mcmod.info]
+JSON with Comments:
+  extensions: [.sublime-build, .sublime-commands, .sublime-completions, .sublime-keymap,
+    .sublime-macro, .sublime-menu, .sublime-mousemap, .sublime-project, .sublime-settings,
+    .sublime-theme, .sublime-workspace, .sublime_metrics, .sublime_session]
+  filenames: [.babelrc, .eslintrc.json, .jscsrc, .jshintrc, .jslintrc, tsconfig.json]
+JSON5:
+  extensions: [.json5]
+  filenames: []
+JSONLD:
+  extensions: [.jsonld]
+  filenames: []
+JSONiq:
+  extensions: [.jq]
+  filenames: []
+JSX:
+  extensions: [.jsx]
+  filenames: []
+Jasmin:
+  extensions: [.j]
+  filenames: []
+Java:
+  extensions: [.java]
+  filenames: []
+Java Server Pages:
+  extensions: [.jsp]
+  filenames: []
+JavaScript:
+  extensions: [.js, ._js, .bones, .es, .es6, .frag, .gs, .jake, .jsb, .jscad, .jsfl,
+    .jsm, .jss, .mjs, .njs, .pac, .sjs, .ssjs, .xsjs, .xsjslib]
+  filenames: [Jakefile]
+Jison:
+  extensions: [.jison]
+  filenames: []
+Jison Lex:
+  extensions: [.jisonlex]
+  filenames: []
+Jolie:
+  extensions: [.ol, .iol]
+  filenames: []
+Julia:
+  extensions: [.jl]
+  filenames: []
+Jupyter Notebook:
+  extensions: [.ipynb]
+  filenames: [Notebook]
+KRL:
+  extensions: [.krl]
+  filenames: []
+KiCad Layout:
+  extensions: [.kicad_pcb, .kicad_mod, .kicad_wks]
+  filenames: [fp-lib-table]
+KiCad Legacy Layout:
+  extensions: [.brd]
+  filenames: []
+KiCad Schematic:
+  extensions: [.sch]
+  filenames: []
+Kit:
+  extensions: [.kit]
+  filenames: []
+Kotlin:
+  extensions: [.kt, .ktm, .kts]
+  filenames: []
+LFE:
+  extensions: [.lfe]
+  filenames: []
+LLVM:
+  extensions: [.ll]
+  filenames: []
+LOLCODE:
+  extensions: [.lol]
+  filenames: []
+LSL:
+  extensions: [.lsl, .lslp]
+  filenames: []
+LabVIEW:
+  extensions: [.lvproj]
+  filenames: []
+Lasso:
+  extensions: [.lasso, .las, .lasso8, .lasso9, .ldml]
+  filenames: []
+Latte:
+  extensions: [.latte]
+  filenames: []
+Lean:
+  extensions: [.lean, .hlean]
+  filenames: []
+Less:
+  extensions: [.less]
+  filenames: []
+Lex:
+  extensions: [.l, .lex]
+  filenames: []
+LilyPond:
+  extensions: [.ly, .ily]
+  filenames: []
+Limbo:
+  extensions: [.b, .m]
+  filenames: []
+Linker Script:
+  extensions: [.ld, .lds, .x]
+  filenames: [ld.script]
+Linux Kernel Module:
+  extensions: [.mod]
+  filenames: []
+Liquid:
+  extensions: [.liquid]
+  filenames: []
+Literate Agda:
+  extensions: [.lagda]
+  filenames: []
+Literate CoffeeScript:
+  extensions: [.litcoffee]
+  filenames: []
+Literate Haskell:
+  extensions: [.lhs]
+  filenames: []
+LiveScript:
+  extensions: [.ls, ._ls]
+  filenames: [Slakefile]
+Logos:
+  extensions: [.xm, .x, .xi]
+  filenames: []
+Logtalk:
+  extensions: [.lgt, .logtalk]
+  filenames: []
+LookML:
+  extensions: [.lookml, .model.lkml, .view.lkml]
+  filenames: []
+LoomScript:
+  extensions: [.ls]
+  filenames: []
+Lua:
+  extensions: [.lua, .fcgi, .nse, .p8, .pd_lua, .rbxs, .wlua]
+  filenames: []
+M:
+  extensions: [.mumps, .m]
+  filenames: []
+M4:
+  extensions: [.m4]
+  filenames: []
+M4Sugar:
+  extensions: [.m4]
+  filenames: [configure.ac]
+MAXScript:
+  extensions: [.ms, .mcr]
+  filenames: []
+MQL4:
+  extensions: [.mq4, .mqh]
+  filenames: []
+MQL5:
+  extensions: [.mq5, .mqh]
+  filenames: []
+MTML:
+  extensions: [.mtml]
+  filenames: []
+MUF:
+  extensions: [.muf, .m]
+  filenames: []
+Makefile:
+  extensions: [.mak, .d, .make, .mk, .mkfile]
+  filenames: [BSDmakefile, GNUmakefile, Kbuild, Makefile, Makefile.am, Makefile.boot,
+    Makefile.frag, Makefile.in, Makefile.inc, Makefile.wat, makefile, makefile.sco,
+    mkfile]
+Mako:
+  extensions: [.mako, .mao]
+  filenames: []
+Markdown:
+  extensions: [.md, .markdown, .mdown, .mdwn, .mkd, .mkdn, .mkdown, .ronn, .workbook]
+  filenames: [contents.lr]
+Marko:
+  extensions: [.marko]
+  filenames: []
+Mask:
+  extensions: [.mask]
+  filenames: []
+Mathematica:
+  extensions: [.mathematica, .cdf, .m, .ma, .mt, .nb, .nbp, .wl, .wlt]
+  filenames: []
+Matlab:
+  extensions: [.matlab, .m]
+  filenames: []
+Maven POM:
+  extensions: []
+  filenames: [pom.xml]
+Max:
+  extensions: [.maxpat, .maxhelp, .maxproj, .mxt, .pat]
+  filenames: []
+MediaWiki:
+  extensions: [.mediawiki, .wiki]
+  filenames: []
+Mercury:
+  extensions: [.m, .moo]
+  filenames: []
+Meson:
+  extensions: []
+  filenames: [meson.build, meson_options.txt]
+Metal:
+  extensions: [.metal]
+  filenames: []
+MiniD:
+  extensions: [.minid]
+  filenames: []
+Mirah:
+  extensions: [.druby, .duby, .mirah]
+  filenames: []
+Modelica:
+  extensions: [.mo]
+  filenames: []
+Modula-2:
+  extensions: [.mod]
+  filenames: []
+Modula-3:
+  extensions: [.i3, .ig, .m3, .mg]
+  filenames: []
+Module Management System:
+  extensions: [.mms, .mmk]
+  filenames: [descrip.mmk, descrip.mms]
+Monkey:
+  extensions: [.monkey, .monkey2]
+  filenames: []
+Moocode:
+  extensions: [.moo]
+  filenames: []
+MoonScript:
+  extensions: [.moon]
+  filenames: []
+Myghty:
+  extensions: [.myt]
+  filenames: []
+NCL:
+  extensions: [.ncl]
+  filenames: []
+NL:
+  extensions: [.nl]
+  filenames: []
+NSIS:
+  extensions: [.nsi, .nsh]
+  filenames: []
+Nearley:
+  extensions: [.ne, .nearley]
+  filenames: []
+Nemerle:
+  extensions: [.n]
+  filenames: []
+NetLinx:
+  extensions: [.axs, .axi]
+  filenames: []
+NetLinx+ERB:
+  extensions: [.axs.erb, .axi.erb]
+  filenames: []
+NetLogo:
+  extensions: [.nlogo]
+  filenames: []
+NewLisp:
+  extensions: [.nl, .lisp, .lsp]
+  filenames: []
+Nextflow:
+  extensions: [.nf]
+  filenames: [nextflow.config]
+Nginx:
+  extensions: [.nginxconf, .vhost]
+  filenames: [nginx.conf]
+Nim:
+  extensions: [.nim, .nimrod]
+  filenames: []
+Ninja:
+  extensions: [.ninja]
+  filenames: []
+Nit:
+  extensions: [.nit]
+  filenames: []
+Nix:
+  extensions: [.nix]
+  filenames: []
+Nu:
+  extensions: [.nu]
+  filenames: [Nukefile]
+NumPy:
+  extensions: [.numpy, .numpyw, .numsc]
+  filenames: []
+OCaml:
+  extensions: [.ml, .eliom, .eliomi, .ml4, .mli, .mll, .mly]
+  filenames: []
+ObjDump:
+  extensions: [.objdump]
+  filenames: []
+Objective-C:
+  extensions: [.m, .h]
+  filenames: []
+Objective-C++:
+  extensions: [.mm]
+  filenames: []
+Objective-J:
+  extensions: [.j, .sj]
+  filenames: []
+Omgrofl:
+  extensions: [.omgrofl]
+  filenames: []
+Opa:
+  extensions: [.opa]
+  filenames: []
+Opal:
+  extensions: [.opal]
+  filenames: []
+OpenCL:
+  extensions: [.cl, .opencl]
+  filenames: []
+OpenEdge ABL:
+  extensions: [.p, .cls, .w]
+  filenames: []
+OpenRC runscript:
+  extensions: []
+  filenames: []
+OpenSCAD:
+  extensions: [.scad]
+  filenames: []
+OpenType Feature File:
+  extensions: [.fea]
+  filenames: []
+Org:
+  extensions: [.org]
+  filenames: []
+Ox:
+  extensions: [.ox, .oxh, .oxo]
+  filenames: []
+Oxygene:
+  extensions: [.oxygene]
+  filenames: []
+Oz:
+  extensions: [.oz]
+  filenames: []
+P4:
+  extensions: [.p4]
+  filenames: []
+PAWN:
+  extensions: [.pwn, .inc]
+  filenames: []
+PHP:
+  extensions: [.php, .aw, .ctp, .fcgi, .inc, .php3, .php4, .php5, .phps, .phpt]
+  filenames: [.php, .php_cs, .php_cs.dist, Phakefile]
+PLSQL:
+  extensions: [.pls, .bdy, .ddl, .fnc, .pck, .pkb, .pks, .plb, .plsql, .prc, .spc,
+    .sql, .tpb, .tps, .trg, .vw]
+  filenames: []
+PLpgSQL:
+  extensions: [.sql]
+  filenames: []
+POV-Ray SDL:
+  extensions: [.pov, .inc]
+  filenames: []
+Pan:
+  extensions: [.pan]
+  filenames: []
+Papyrus:
+  extensions: [.psc]
+  filenames: []
+Parrot:
+  extensions: [.parrot]
+  filenames: []
+Parrot Assembly:
+  extensions: [.pasm]
+  filenames: []
+Parrot Internal Representation:
+  extensions: [.pir]
+  filenames: []
+Pascal:
+  extensions: [.pas, .dfm, .dpr, .inc, .lpr, .pascal, .pp]
+  filenames: []
+Pep8:
+  extensions: [.pep]
+  filenames: []
+Perl:
+  extensions: [.pl, .al, .cgi, .fcgi, .perl, .ph, .plx, .pm, .psgi, .t]
+  filenames: [Makefile.PL, Rexfile, ack, cpanfile]
+Perl 6:
+  extensions: [.6pl, .6pm, .nqp, .p6, .p6l, .p6m, .pl, .pl6, .pm, .pm6, .t]
+  filenames: []
+Pic:
+  extensions: [.pic, .chem]
+  filenames: []
+Pickle:
+  extensions: [.pkl]
+  filenames: []
+PicoLisp:
+  extensions: [.l]
+  filenames: []
+PigLatin:
+  extensions: [.pig]
+  filenames: []
+Pike:
+  extensions: [.pike, .pmod]
+  filenames: []
+Pod:
+  extensions: [.pod]
+  filenames: []
+PogoScript:
+  extensions: [.pogo]
+  filenames: []
+Pony:
+  extensions: [.pony]
+  filenames: []
+PostCSS:
+  extensions: [.pcss]
+  filenames: []
+PostScript:
+  extensions: [.ps, .eps, .pfa]
+  filenames: []
+PowerBuilder:
+  extensions: [.pbt, .sra, .sru, .srw]
+  filenames: []
+PowerShell:
+  extensions: [.ps1, .psd1, .psm1]
+  filenames: []
+Processing:
+  extensions: [.pde]
+  filenames: []
+Prolog:
+  extensions: [.pl, .pro, .prolog, .yap]
+  filenames: []
+Propeller Spin:
+  extensions: [.spin]
+  filenames: []
+Protocol Buffer:
+  extensions: [.proto]
+  filenames: []
+Public Key:
+  extensions: [.asc, .pub]
+  filenames: []
+Pug:
+  extensions: [.jade, .pug]
+  filenames: []
+Puppet:
+  extensions: [.pp]
+  filenames: [Modulefile]
+Pure Data:
+  extensions: [.pd]
+  filenames: []
+PureBasic:
+  extensions: [.pb, .pbi]
+  filenames: []
+PureScript:
+  extensions: [.purs]
+  filenames: []
+Python:
+  extensions: [.py, .bzl, .cgi, .fcgi, .gyp, .gypi, .lmi, .py3, .pyde, .pyi, .pyp,
+    .pyt, .pyw, .rpy, .spec, .tac, .wsgi, .xpy]
+  filenames: [.gclient, BUCK, BUILD, BUILD.bazel, SConscript, SConstruct, Snakefile,
+    WORKSPACE, wscript]
+Python console:
+  extensions: []
+  filenames: []
+Python traceback:
+  extensions: [.pytb]
+  filenames: []
+QML:
+  extensions: [.qml, .qbs]
+  filenames: []
+QMake:
+  extensions: [.pro, .pri]
+  filenames: []
+Quake:
+  extensions: []
+  filenames: [m3makefile, m3overrides]
+R:
+  extensions: [.r, .rd, .rsx]
+  filenames: [.Rprofile, expr-dist]
+RAML:
+  extensions: [.raml]
+  filenames: []
+RDoc:
+  extensions: [.rdoc]
+  filenames: []
+REALbasic:
+  extensions: [.rbbas, .rbfrm, .rbmnu, .rbres, .rbtbar, .rbuistate]
+  filenames: []
+REXX:
+  extensions: [.rexx, .pprx, .rex]
+  filenames: []
+RHTML:
+  extensions: [.rhtml]
+  filenames: []
+RMarkdown:
+  extensions: [.rmd]
+  filenames: []
+RPC:
+  extensions: [.x]
+  filenames: []
+RPM Spec:
+  extensions: [.spec]
+  filenames: []
+RUNOFF:
+  extensions: [.rnh, .rno]
+  filenames: []
+Racket:
+  extensions: [.rkt, .rktd, .rktl, .scrbl]
+  filenames: []
+Ragel:
+  extensions: [.rl]
+  filenames: []
+Rascal:
+  extensions: [.rsc]
+  filenames: []
+Raw token data:
+  extensions: [.raw]
+  filenames: []
+Reason:
+  extensions: [.re, .rei]
+  filenames: []
+Rebol:
+  extensions: [.reb, .r, .r2, .r3, .rebol]
+  filenames: []
+Red:
+  extensions: [.red, .reds]
+  filenames: []
+Redcode:
+  extensions: [.cw]
+  filenames: []
+Regular Expression:
+  extensions: [.regexp, .regex]
+  filenames: []
+Ren'Py:
+  extensions: [.rpy]
+  filenames: []
+RenderScript:
+  extensions: [.rs, .rsh]
+  filenames: []
+Ring:
+  extensions: [.ring]
+  filenames: []
+RobotFramework:
+  extensions: [.robot]
+  filenames: []
+Roff:
+  extensions: [.roff, '.1', .1in, .1m, .1x, '.2', '.3', .3in, .3m, .3qt, .3x, '.4',
+    '.5', '.6', '.7', '.8', '.9', .l, .man, .mdoc, .me, .ms, .n, .nr, .rno, .tmac]
+  filenames: [mmn, mmt]
+Rouge:
+  extensions: [.rg]
+  filenames: []
+Ruby:
+  extensions: [.rb, .builder, .eye, .fcgi, .gemspec, .god, .jbuilder, .mspec, .pluginspec,
+    .podspec, .rabl, .rake, .rbuild, .rbw, .rbx, .ru, .ruby, .spec, .thor, .watchr]
+  filenames: [.irbrc, .pryrc, Appraisals, Berksfile, Brewfile, Buildfile, Capfile,
+    Dangerfile, Deliverfile, Fastfile, Gemfile, Gemfile.lock, Guardfile, Jarfile,
+    Mavenfile, Podfile, Puppetfile, Rakefile, Snapfile, Thorfile, Vagrantfile, buildfile]
+Rust:
+  extensions: [.rs, .rs.in]
+  filenames: []
+SAS:
+  extensions: [.sas]
+  filenames: []
+SCSS:
+  extensions: [.scss]
+  filenames: []
+SMT:
+  extensions: [.smt2, .smt]
+  filenames: []
+SPARQL:
+  extensions: [.sparql, .rq]
+  filenames: []
+SQF:
+  extensions: [.sqf, .hqf]
+  filenames: []
+SQL:
+  extensions: [.sql, .cql, .ddl, .inc, .mysql, .prc, .tab, .udf, .viw]
+  filenames: []
+SQLPL:
+  extensions: [.sql, .db2]
+  filenames: []
+SRecode Template:
+  extensions: [.srt]
+  filenames: []
+STON:
+  extensions: [.ston]
+  filenames: []
+SVG:
+  extensions: [.svg]
+  filenames: []
+Sage:
+  extensions: [.sage, .sagews]
+  filenames: []
+SaltStack:
+  extensions: [.sls]
+  filenames: []
+Sass:
+  extensions: [.sass]
+  filenames: []
+Scala:
+  extensions: [.scala, .kojo, .sbt, .sc]
+  filenames: []
+Scaml:
+  extensions: [.scaml]
+  filenames: []
+Scheme:
+  extensions: [.scm, .sch, .sld, .sls, .sps, .ss]
+  filenames: []
+Scilab:
+  extensions: [.sci, .sce, .tst]
+  filenames: []
+Self:
+  extensions: [.self]
+  filenames: []
+ShaderLab:
+  extensions: [.shader]
+  filenames: []
+Shell:
+  extensions: [.sh, .bash, .bats, .cgi, .command, .fcgi, .ksh, .sh.in, .tmux, .tool,
+    .zsh]
+  filenames: [.bash_history, .bash_logout, .bash_profile, .bashrc, .cshrc, .login,
+    .profile, .zlogin, .zlogout, .zprofile, .zshenv, .zshrc, 9fs, PKGBUILD, bash_logout,
+    bash_profile, bashrc, cshrc, gradlew, login, man, profile, zlogin, zlogout, zprofile,
+    zshenv, zshrc]
+ShellSession:
+  extensions: [.sh-session]
+  filenames: []
+Shen:
+  extensions: [.shen]
+  filenames: []
+Slash:
+  extensions: [.sl]
+  filenames: []
+Slice:
+  extensions: [.ice]
+  filenames: []
+Slim:
+  extensions: [.slim]
+  filenames: []
+Smali:
+  extensions: [.smali]
+  filenames: []
+Smalltalk:
+  extensions: [.st, .cs]
+  filenames: []
+Smarty:
+  extensions: [.tpl]
+  filenames: []
+Solidity:
+  extensions: []
+  filenames: []
+SourcePawn:
+  extensions: [.sp, .inc, .sma]
+  filenames: []
+Spline Font Database:
+  extensions: [.sfd]
+  filenames: []
+Squirrel:
+  extensions: [.nut]
+  filenames: []
+Stan:
+  extensions: [.stan]
+  filenames: []
+Standard ML:
+  extensions: [.ML, .fun, .sig, .sml]
+  filenames: []
+Stata:
+  extensions: [.do, .ado, .doh, .ihlp, .mata, .matah, .sthlp]
+  filenames: []
+Stylus:
+  extensions: [.styl]
+  filenames: []
+SubRip Text:
+  extensions: [.srt]
+  filenames: []
+SugarSS:
+  extensions: [.sss]
+  filenames: []
+SuperCollider:
+  extensions: [.sc, .scd]
+  filenames: []
+Swift:
+  extensions: [.swift]
+  filenames: []
+SystemVerilog:
+  extensions: [.sv, .svh, .vh]
+  filenames: []
+TI Program:
+  extensions: [.8xp, .8xk, .8xk.txt, .8xp.txt]
+  filenames: []
+TLA:
+  extensions: [.tla]
+  filenames: []
+TOML:
+  extensions: [.toml]
+  filenames: [Cargo.lock, Gopkg.lock]
+TXL:
+  extensions: [.txl]
+  filenames: []
+Tcl:
+  extensions: [.tcl, .adp, .tm]
+  filenames: [owh, starfield]
+Tcsh:
+  extensions: [.tcsh, .csh]
+  filenames: []
+TeX:
+  extensions: [.tex, .aux, .bbx, .bib, .cbx, .cls, .dtx, .ins, .lbx, .ltx, .mkii,
+    .mkiv, .mkvi, .sty, .toc]
+  filenames: []
+Tea:
+  extensions: [.tea]
+  filenames: []
+Terra:
+  extensions: [.t]
+  filenames: []
+Text:
+  extensions: [.txt, .fr, .nb, .ncl, .no]
+  filenames: [COPYING, COPYING.regex, COPYRIGHT.regex, FONTLOG, INSTALL, INSTALL.mysql,
+    LICENSE, LICENSE.mysql, NEWS, README.1ST, README.me, README.mysql, click.me, delete.me,
+    keep.me, read.me, readme.1st, test.me]
+Textile:
+  extensions: [.textile]
+  filenames: []
+Thrift:
+  extensions: [.thrift]
+  filenames: []
+Turing:
+  extensions: [.t, .tu]
+  filenames: []
+Turtle:
+  extensions: [.ttl]
+  filenames: []
+Twig:
+  extensions: [.twig]
+  filenames: []
+Type Language:
+  extensions: [.tl]
+  filenames: []
+TypeScript:
+  extensions: [.ts, .tsx]
+  filenames: []
+Unified Parallel C:
+  extensions: [.upc]
+  filenames: []
+Unity3D Asset:
+  extensions: [.anim, .asset, .mat, .meta, .prefab, .unity]
+  filenames: []
+Unix Assembly:
+  extensions: [.s, .ms]
+  filenames: []
+Uno:
+  extensions: [.uno]
+  filenames: []
+UnrealScript:
+  extensions: [.uc]
+  filenames: []
+UrWeb:
+  extensions: [.ur, .urs]
+  filenames: []
+VCL:
+  extensions: [.vcl]
+  filenames: []
+VHDL:
+  extensions: [.vhdl, .vhd, .vhf, .vhi, .vho, .vhs, .vht, .vhw]
+  filenames: []
+Vala:
+  extensions: [.vala, .vapi]
+  filenames: []
+Verilog:
+  extensions: [.v, .veo]
+  filenames: []
+Vim script:
+  extensions: [.vim]
+  filenames: [.gvimrc, .nvimrc, .vimrc, _vimrc, gvimrc, nvimrc, vimrc]
+Visual Basic:
+  extensions: [.vb, .bas, .cls, .frm, .frx, .vba, .vbhtml, .vbs]
+  filenames: []
+Volt:
+  extensions: [.volt]
+  filenames: []
+Vue:
+  extensions: [.vue]
+  filenames: []
+Wavefront Material:
+  extensions: [.mtl]
+  filenames: []
+Wavefront Object:
+  extensions: [.obj]
+  filenames: []
+Web Ontology Language:
+  extensions: [.owl]
+  filenames: []
+WebAssembly:
+  extensions: [.wast, .wat]
+  filenames: []
+WebIDL:
+  extensions: [.webidl]
+  filenames: []
+Windows Registry Entries:
+  extensions: [.reg]
+  filenames: []
+World of Warcraft Addon Data:
+  extensions: [.toc]
+  filenames: []
+X BitMap:
+  extensions: [.xbm]
+  filenames: []
+X Font Directory Index:
+  extensions: []
+  filenames: [encodings.dir, fonts.alias, fonts.dir, fonts.scale]
+X PixMap:
+  extensions: [.xpm, .pm]
+  filenames: []
+X10:
+  extensions: [.x10]
+  filenames: []
+XC:
+  extensions: [.xc]
+  filenames: []
+XCompose:
+  extensions: []
+  filenames: [.XCompose, XCompose, xcompose]
+XML:
+  extensions: [.xml, .adml, .admx, .ant, .axml, .builds, .ccproj, .ccxml, .clixml,
+    .cproject, .cscfg, .csdef, .csl, .csproj, .ct, .depproj, .dita, .ditamap, .ditaval,
+    .dll.config, .dotsettings, .filters, .fsproj, .fxml, .glade, .gml, .gmx, .grxml,
+    .iml, .ivy, .jelly, .jsproj, .kml, .launch, .mdpolicy, .mjml, .mm, .mod, .mxml,
+    .natvis, .ncl, .ndproj, .nproj, .nuspec, .odd, .osm, .pkgproj, .plist, .pluginspec,
+    .proj, .props, .ps1xml, .psc1, .pt, .rdf, .resx, .rss, .sch, .scxml, .sfproj,
+    .shproj, .srdf, .storyboard, .stTheme, .sublime-snippet, .targets, .tmCommand,
+    .tml, .tmLanguage, .tmPreferences, .tmSnippet, .tmTheme, .ts, .tsx, .ui, .urdf,
+    .ux, .vbproj, .vcxproj, .vsixmanifest, .vssettings, .vstemplate, .vxml, .wixproj,
+    .wsdl, .wsf, .wxi, .wxl, .wxs, .x3d, .xacro, .xaml, .xib, .xlf, .xliff, .xmi,
+    .xml.dist, .xproj, .xsd, .xspec, .xul, .zcml]
+  filenames: [.classpath, .cproject, .project, App.config, NuGet.config, Settings.StyleCop,
+    Web.Debug.config, Web.Release.config, Web.config, packages.config]
+XPages:
+  extensions: [.xsp-config, .xsp.metadata]
+  filenames: []
+XProc:
+  extensions: [.xpl, .xproc]
+  filenames: []
+XQuery:
+  extensions: [.xquery, .xq, .xql, .xqm, .xqy]
+  filenames: []
+XS:
+  extensions: [.xs]
+  filenames: []
+XSLT:
+  extensions: [.xslt, .xsl]
+  filenames: []
+Xojo:
+  extensions: [.xojo_code, .xojo_menu, .xojo_report, .xojo_script, .xojo_toolbar,
+    .xojo_window]
+  filenames: []
+Xtend:
+  extensions: [.xtend]
+  filenames: []
+YAML:
+  extensions: [.yml, .mir, .reek, .rviz, .sublime-syntax, .syntax, .yaml, .yaml-tmlanguage,
+    .yml.mysql]
+  filenames: [.clang-format, .clang-tidy, .gemrc, glide.lock]
+YANG:
+  extensions: [.yang]
+  filenames: []
+YARA:
+  extensions: [.yar, .yara]
+  filenames: []
+YASnippet:
+  extensions: [.yasnippet]
+  filenames: []
+Yacc:
+  extensions: [.y, .yacc, .yy]
+  filenames: []
+Zephir:
+  extensions: [.zep]
+  filenames: []
+Zimpl:
+  extensions: [.zimpl, .zmpl, .zpl]
+  filenames: []
+desktop:
+  extensions: [.desktop, .desktop.in]
+  filenames: []
+eC:
+  extensions: [.ec, .eh]
+  filenames: []
+edn:
+  extensions: [.edn]
+  filenames: []
+fish:
+  extensions: [.fish]
+  filenames: []
+mupad:
+  extensions: [.mu]
+  filenames: []
+nesC:
+  extensions: [.nc]
+  filenames: []
+ooc:
+  extensions: [.ooc]
+  filenames: []
+q:
+  extensions: [.q]
+  filenames: []
+reStructuredText:
+  extensions: [.rst, .rest, .rest.txt, .rst.txt]
+  filenames: []
+sed:
+  extensions: [.sed]
+  filenames: []
+wdl:
+  extensions: [.wdl]
+  filenames: []
+wisp:
+  extensions: [.wisp]
+  filenames: []
+xBase:
+  extensions: [.prg, .ch, .prw]
+  filenames: []
